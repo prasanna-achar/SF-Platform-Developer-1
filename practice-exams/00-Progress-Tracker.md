@@ -27,6 +27,7 @@
 | **Paper 17**| **Platform Developer Quick Review**| **Attempt 1** | **2026-10-13** | **14/20** | **70.00%** | **15m** | **+2.00% ✅ PASS** |
 | **Paper 18**| **Practice Exam 3**              | **Attempt 1** | **2026-10-14** | **42/60** | **69.97%W**| **54m** | **+1.97% ✅ PASS** |
 | **Paper 19**| **Practice Exam 4 (Full 60)**    | **Attempt 1** | **2026-10-14** | **41/60** | **68.28%W**| **--**  | **+0.28% ⚠️ PASS** |
+| **Paper 20**| **Full Practice Exam (Random)**  | **Attempt 5** | **2026-10-16** | **51/60** | **85.10%W**| **1h 03m** | **+17.10% ✅ PASS** |
 
 ---
 
