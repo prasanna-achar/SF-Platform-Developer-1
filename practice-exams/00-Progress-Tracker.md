@@ -30,6 +30,13 @@
 | **Paper 20**| **Full Practice Exam (Random)**  | **Attempt 5** | **2026-10-16** | **51/60** | **85.10%W**| **1h 03m** | **+17.10% ✅ PASS** |
 | **Paper 21**| **Full Practice Exam (k2u.ai)** | **Attempt 6** | **2026-10-19** | **49/60** | **80.41%W**| **47m**   | **+12.41% ✅ PASS** |
 | **Paper 22**| **Full Practice Exam 2 (k2u.ai)**| **Attempt 7** | **2026-10-20** | **48/60** | **77.43%W**| **45m**   | **+9.43% ✅ PASS** |
+| **Paper 23**| **Full Practice Exam 3 (k2u.ai)**| **Attempt 8** | **2026-10-20** | **49/60** | **82.86%W**| **43m**   | **+14.86% ✅ PASS** |
+| **Paper 24**| **Full Practice Exam 4 (k2u.ai)**| **Attempt 9** | **2026-10-22** | **53/60** | **86.83%W**| **45m**   | **+18.83% 🏆 ALL-TIME HIGH** |
+| **Paper 25**| **Full Practice Exam 5 (k2u.ai)**| **Attempt 10**| **2026-10-22** | **48/60** | **81.40%W**| **42m**   | **+13.40% ✅ PASS** |
+| **Paper 26**| **Full Practice Exam 6 (k2u.ai)**| **Attempt 11**| **2026-10-24** | **47/60** | **80.34%W**| **10m**   | **+12.34% ✅ PASS** |
+| **Paper 27**| **Full Practice Exam 7 (k2u.ai)**| **Attempt 12**| **2026-10-26** | **47/60** | **80.34%W**| **10m**   | **+12.34% ✅ PASS** |
+| **Paper 5** | **User Interface Obj 1**          | **Attempt 2** | **2026-10-28** | **49/74** | **66.22%** | **2h 53m** | **-1.78% ❌** |
+| **Paper 28**| **Full Practice Exam 8 (k2u.ai)**| **Attempt 13**| **2026-10-29** | **49/60** | **80.04%W**| **56m**   | **+12.04% ✅ PASS** |
 
 ---
 
